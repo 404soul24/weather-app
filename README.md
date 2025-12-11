@@ -2,6 +2,8 @@
 
 A simple weather app that shows current weather conditions for any city. Built with HTML, CSS, and JavaScript following [this YouTube tutorial](https://youtu.be/MIYQR-Ybrn4?si=T0GmqcZcJrrRJSVH).
 
+**🌐 Live Demo:** [https://weather-app-three-beta-42.vercel.app/](https://weather-app-three-beta-42.vercel.app/)
+
 ## Features
 
 - Search weather by city name
